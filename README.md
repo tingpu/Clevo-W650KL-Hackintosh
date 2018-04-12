@@ -38,8 +38,8 @@
 ## BIOS MOD
 | BIOS  | 下载 | 
 | ---------- | -----------|
-|[官方最新](ftp://usftp.clevo.com.tw/ALLBIOS/W65xKL/)|官方最新 BIOS，EC|
-|[Clevo 镜像](https://repo.palkeo.com/clevo-mirror/)|所有机型历史镜像|
-|[dsanke 解锁8代](http://tieba.baidu.com/p/5611931408)|解锁支持 LGA1151 8线程以内的 CPU|
-|[官方解锁隐藏选项](http://tieba.baidu.com/p/5611931408)|解锁官方最新 BIOS 中的隐藏选项|
-|[官方解锁隐藏选项](http://tieba.baidu.com/p/5611931408)|基于 dsanke BIOS 解锁隐藏选项和 CPU|
+|官方最新 BIOS EC|ftp://usftp.clevo.com.tw/ALLBIOS/W65xKL/|
+|所有机型历史镜像|https://repo.palkeo.com/clevo-mirror/|
+|dsanke 解锁 8代 CPU|https://tieba.baidu.com/p/5611931408|
+|解锁 BIOS 隐藏选项|https://tieba.baidu.com/p/5611931408|
+|解锁隐藏选项和 CPU|https://tieba.baidu.com/p/5611931408|
