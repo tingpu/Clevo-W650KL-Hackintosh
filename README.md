@@ -10,11 +10,14 @@
 - 硬盘 : HGST HTS541010B7E610 5400转 1TB Sata 磁盘
 - 网卡 : Realtek RTL8168 千兆网卡
 - 声卡 : Realtek ALC269
-- 无线 : Intel DualBand AC3168
-- 蓝牙 : Intel Bluetooth
+- 无线 : Intel 双频 AC3168 1x1 433Mbps M.2 2230
+- 蓝牙 : Intel Bluetooth 4.2
 - 集显 : Intel HD Graphics 630
 - 独显 : nVidia Geforce MX150 2GB
-- 屏幕 : Panda LM156LF1L03 15.6 45% 60hz 1080p
+- 屏幕 : Panda LM156LF1L03 15.6 45% 60hz 1080p IPS
+- 读卡器 : Realtek RTS5287 读卡器
+- 摄像头 : Chicony USB2.0 摄像头
+- 触摸板 : Synaptics
 
 ## 当前配置
 - CPU  : Intel Kaby Lake 七代桌面奔腾 G4600 双核四线程 3.6G 3M 缓存
@@ -27,4 +30,16 @@
 - 蓝牙 : Dell DW1560 / BCM94352ZAE
 - 集显 : Intel HD Graphics 630
 - 独显 : nVidia Geforce MX150 2GB
-- 屏幕 : LG LP156WF6-SPB1 15.6 72% 60hz 1080p
+- 屏幕 : LG LP156WF6-SPB1 15.6 72% 60hz 1080p IPS
+- 读卡器 : Realtek RTS5287 读卡器
+- 摄像头 : Chicony USB2.0 摄像头
+- 触摸板 : Synaptics
+
+## BIOS MOD
+| BIOS  | 下载 | 
+| ---------- | -----------|
+|[官方最新](ftp://usftp.clevo.com.tw/ALLBIOS/W65xKL/)|官方最新 BIOS，EC|
+|[Clevo 镜像](https://repo.palkeo.com/clevo-mirror/)|所有机型历史镜像|
+|[dsanke 解锁8代](http://tieba.baidu.com/p/5611931408)|解锁支持 LGA1151 8线程以内的 CPU|
+|[官方解锁隐藏选项](http://tieba.baidu.com/p/5611931408)|解锁官方最新 BIOS 中的隐藏选项|
+|[官方解锁隐藏选项](http://tieba.baidu.com/p/5611931408)|基于 dsanke BIOS 解锁隐藏选项和 CPU|
